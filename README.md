@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Marios!
 
-<!--
-**Margout404/Margout404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I graduated in **Computer Science** in 2024.  
+🚀 Currently, I'm diving deeper into the world of programming by attending **coding bootcamps and seminars**.
 
-Here are some ideas to get you started:
+### 🛠 Technologies I'm working with:
+- HTML, CSS, JavaScript
+- Java, Python
+- SQL & basic database concepts
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning:
+- Full-Stack Web Development
+- Java backend
+- React 
+- Frontend integration with backend
+
+### 📌 Projects
+You can find some of my personal and educational projects right here on GitHub.  
+I'm constantly learning and building – feel free to check them out!
+
+### ⚽ Hobbies
+Outside of coding, I enjoy:
+- ✈️ Traveling and discovering new places
+- 🏃 Sports, especially football 
+
+### 🤝 Let's connect!
+You can reach me on [LinkedIn](https://www.linkedin.com/in/marios-goutidis/) or just explore my repos!
+
+---
+
+_Thanks for stopping by 👀!_
