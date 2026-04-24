@@ -1,28 +1,59 @@
-# 👋 Hi, I'm Marios!
+#  Hi, I'm Marios
+Backend Developer | Java | APIs | Databases | Problem Solving
 
-🎓 I graduated in **Computer Science** in 2024.  
-🚀 Currently, I'm diving deeper into the world of programming by attending **coding bootcamps and seminars**.
+Computer Science graduate (2024) and current Software Development Master's student with a strong focus on backend development and Java.
 
-### 🛠 Technologies I'm working with:
-- HTML, CSS, JavaScript
-- Java, Python
-- SQL & basic database concepts
+I enjoy building practical projects, learning through hands-on development, and continuously improving my skills across software engineering, APIs, databases, and system design.
+
+---
+
+## About Me
+
+- Backend-oriented developer with growing experience in Java and Spring Boot
+- Comfortable working with REST APIs, databases, and data handling
+- Interested in software architecture, integrations, and real-world problem solving
+- Constantly building projects to improve development skills and explore new technologies
+
+---
+  
+## Tech Stack
+
+### Languages
+- Java
+- Python
+- SQL
+- JavaScript
+
+### Tools & Technologies
+- Spring Boot
+- REST APIs
+- Docker
 - Git & GitHub
+- Relational Databases
+- Postman
 
-### 🌱 Currently learning:
-- Full-Stack Web Development
-- Java backend
-- React 
-- Frontend integration with backend
+---
 
-### 📌 Projects
-You can find some of my personal and educational projects right here on GitHub.  
-I'm constantly learning and building – feel free to check them out!
+## Currently Exploring
 
-### ⚽ Hobbies
+- Advanced Java backend development
+- API integrations
+- Dockerized applications
+- Design Patterns
+- Backend architecture & clean code principles
+
+---
+
+
+## Hobbies
+
 Outside of coding, I enjoy:
-- ✈️ Traveling and discovering new places
-- 🏃 Sports, especially football 
+
+- Traveling and discovering new places
+- Running and sports
+- Football
+
+---
 
 ### 🤝 Let's connect!
 You can reach me on [LinkedIn](https://www.linkedin.com/in/marios-goutidis/) or just explore my repos!
